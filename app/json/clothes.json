@@ -1,0 +1,105 @@
+[
+	{
+		"id" : 1,
+		"name": "Denim Jeans - by xyzee",
+		"description":"Kombucha incididunt duis, est bitters bushwick DIY. Selfies magna whatever slow-carb minim, voluptate meditation try-hard cupidatat duis echo park helvetica ramps DIY vinyl. Lumbersexual mustache elit, iPhone distillery keytar aliqua crucifix slow-carb commodo. Ex XOXO fugiat pop-up blue bottle selfies brooklyn",
+		"type": "Mens Wear",
+		"price": 10.00,
+		"images":[
+
+			{	
+				"name": "cloth1.jpg"
+				},
+			{	
+				"name": "cloth12.jpg"
+
+				},
+
+			{	"name": "cloth13.jpg"
+
+				}
+
+
+		]
+	},
+	{
+		"id" : 2,
+		"name": "Linen Shirt - by ghi's ",
+		"description":"Cray forage gentrify, tilde veniam minim art party dolor roof party brunch master cleanse tumblr pork belly gochujang gastropub. Twee polaroid small batch, stumptown four dollar toast fugiat dolore lo-fi poutine shabby chic.",
+		"type":"Casual",
+		"price": 19.99,
+		"images":[
+			{
+				"name": "cloth2.jpg"
+				}
+
+		],
+		"soldOut":true
+
+
+	},
+	{
+		"id" : 3,
+		"name": "Cotton Shirt - by fighz",
+		"description":"Cray forage gentrify, tilde veniam minim art party dolor roof party brunch master cleanse tumblr pork belly gochujang gastropub. Twee polaroid small batch, stumptown four dollar toast fugiat dolore lo-fi poutine shabby chic.",
+		"type":"Formal",
+		"price": 3.99,
+		"images":[
+			{
+				"name": "cloth3.jpg"
+				}
+
+		],
+		"soldOut":true
+
+	},
+	{
+		"id" : 4,
+		"name": "Pure Denim Shirt - by tuy garments",
+		"description":"Cray forage gentrify, tilde veniam minim art party dolor roof party brunch master cleanse tumblr pork belly gochujang gastropub. Twee polaroid small batch, stumptown four dollar toast fugiat dolore lo-fi poutine shabby chic.",
+		"type":"Casual",
+		"price": 45.99,
+		"images":[
+			{
+				"name": "cloth4.jpg"
+				}
+		],
+		"soldOut":true
+
+
+	},
+	{
+		"id" : 5,
+		"name": "Casual Fm jacket - by hui's store",
+		"description":"Voluptate delectus man bun, id squid exercitation irure scenester mlkshk man braid authentic slow-carb et. Godard normcore meh, tumblr enim sustainable keffiyeh gentrify chartreuse elit.",
+		"type":"Female Wear",
+		"price": 15.99,
+		"images":[
+			{
+				"name": "cloth5.jpg"
+				}
+
+		],
+		"soldOut":true
+
+
+	},
+	{
+		"id" : 6,
+		"name": "Cotton checkers Shirt",
+		"description":"Ea irony twee flannel, voluptate four dollar toast brooklyn hoodie. Hella biodiesel culpa, tacos gentrify mlkshk wayfarers whatever shoreditch. Ramps veniam food truck pinterest incididunt, dolor odio roof party cupidatat messenger bag irony",
+		"type":"Casual Wear",
+		"price": 66.99,
+		"images":[
+			{
+				"name": "cloth6.jpg"
+				}
+
+		],
+		"soldOut":true
+
+
+	}
+
+
+]
